@@ -43,6 +43,6 @@ int main()
 		// Write an action using cout. DON'T FORGET THE "<< endl"
 		// To debug: cerr << "Debug messages..." << endl;
 
-		cout << "PASS" << endl;
+		cout << "Test 2 " << endl;
 	}
 }
